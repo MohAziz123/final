@@ -1,0 +1,204 @@
+.img{
+  width: 100%;
+}
+
+.titre{
+    text-align: center ;
+    font-size: 73px;
+    color: #ffb300;
+}
+.imagetitre{
+  width: 53px;
+}
+
+.imga{
+  margin-top: 120px;
+  width: 50%;
+}
+
+.me-auto{
+  color: #ffb300;
+}
+
+.title{
+  margin-left: 46px;
+  margin-top: 43px;
+  margin-bottom: -71px;
+  color: #a52a2ad4;
+
+}
+
+.Registre{
+  background-image: url(https://getwallpapers.com/wallpaper/full/0/f/a/200330.jpg) ;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;}
+
+.mb-3 input { width: 250px;
+}
+
+
+.Login{
+  background-image: url(https://getwallpapers.com/wallpaper/full/c/5/0/200233.jpg) ;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+
+.res{
+  color: aliceblue;
+}
+
+.mod{
+  color: #ffb300;
+}
+
+.user{
+  background-image: url(https://tse1.mm.bing.net/th?id=OIP.xOsGAdF_AKLh8ANeEOd0MwHaEK&pid=Api&P=0);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  }
+.head{
+  top : 0;
+  position: sticky;
+  
+}
+
+.azervbnn{
+  background-image: url(../public/thd.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+.azerdcxs{
+  font-size: 100px;
+}
+
+.ghjdf{
+  display: flex;
+  justify-content: space-around;
+}
+
+.pa{
+  font-weight: 900;
+  margin-left: 2px;
+  color: #595050;
+  padding: 170px;
+  font-size: 24px;
+
+}
+
+form{
+  margin-left : 65px
+}
+
+.iheb{
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.edit{
+  background-image: url(https://tse4.mm.bing.net/th?id=OIP.3wWBSg4EetihridTPM7vYAHaFC&pid=Api&P=0);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+.imgpr{
+  width: 34%;
+  margin-left: 280px;
+}
+
+.para{
+  
+  display: flex;
+  justify-content: right;
+  margin-top: -225px;
+  margin-right: 110px;
+   font-weight: 900;
+}
+
+.raslen{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.azerty{
+  display: flex;
+  justify-content: space-around;
+}
+
+.azer{
+  width: 563px;
+  margin-left: 129px;
+}
+
+.azerwx{
+  font-weight: bold;
+  margin-top: 68px;
+}
+
+.poiu{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 155px;
+}
+
+.xcv{
+  width: 563px;
+  margin-left: 129px;
+  margin-right: 48px;
+}
+
+
+.sdf{
+  margin-left: 162px;
+  font-weight: bold;
+}
+
+.titlephoto{
+  width: 1519px;
+}
+
+.carousel{
+  width: 1400px;
+  margin: auto;
+  margin-top: 61px;
+  margin-bottom: 127px;
+}
+
+.title{
+  
+  width: 1473px;
+  margin-left: 28px;
+  margin-top: 0px;
+
+}
+
+.club{
+  color: #a4926a;
+}
+
+
+.azop{
+  
+  margin-left: 115px;
+  color: navajowhite;
+  font-weight: revert;
+}
